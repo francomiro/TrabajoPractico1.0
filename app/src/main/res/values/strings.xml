@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="boton1">Entrar</string>
+    <string name="mensaje1">Bienvenido</string>
+</resources>

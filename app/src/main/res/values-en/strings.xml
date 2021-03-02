@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="boton1">Join</string>
+    <string name="mensaje1">Welcome</string>
+</resources>
